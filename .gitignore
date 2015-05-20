@@ -1,3 +1,10 @@
+angular/
+
+*.sh
+*.bat
+*.rb
+bootstrap.css
+
 # Compiled source #
 ###################
 *.com
@@ -6,8 +13,6 @@
 *.exe
 *.o
 *.so
-
-social-network\app\lib
 
 # Packages #
 ############
