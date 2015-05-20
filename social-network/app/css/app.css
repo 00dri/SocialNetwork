@@ -8,3 +8,37 @@
 .even_row {
 	background: red;
 }
+
+.container-fluid{
+	padding: 0px;
+	margin: 50px;
+	font-family: sans-serif;
+}
+h1{
+	font-size: 40px;
+}
+#form-login{		
+	float: right;
+	padding: 20px;
+	width: 250px;
+	margin-left: 1px;
+	//margin-right: 300px;
+	background-color: lightblue;
+}	
+#form-signup{
+	float: left;
+	padding: 20px;
+	width: 250px;
+	margin-right: 10px;
+	margin-left: 1px;
+	background-color: lightblue;
+}
+.form-control{
+	padding: 10px;
+	margin-bottom: 5px;
+}
+.checkbox{
+	padding: 0px;
+	margin-bottom: 15px;
+	color: gray;
+}
