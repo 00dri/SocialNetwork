@@ -1,1 +1,3 @@
-var app = angular.module("SocialNetwork", []);
+'use strict';
+
+var socialNetworkApp = angular.module("socialNetworkApp", []);
