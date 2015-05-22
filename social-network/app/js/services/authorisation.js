@@ -1,6 +1,6 @@
 'use strict';
 
-socialNetworkApp.factory('credentials', ['$sessionStorage', '$localStorage', 
+socialNetworkApp.factory('authorisation', ['$sessionStorage', '$localStorage', 
     function(sessionStorage, localStorage){
         function addToSessionStorage(){
 
